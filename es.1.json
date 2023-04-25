@@ -1,0 +1,4375 @@
+{
+  "name": "Primera División 2016/17",
+  "rounds": [
+    {
+      "name": "Jornada 1",
+      "matches": [
+        {
+          "date": "2016-08-19",
+          "team1": "MGA",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-08-19",
+          "team1": "RCD",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-08-20",
+          "team1": "BAR",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              6,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-08-20",
+          "team1": "GRA",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-08-20",
+          "team1": "SEV",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              6,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2016-08-21",
+          "team1": "SPO",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-08-21",
+          "team1": "RSO",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-08-21",
+          "team1": "ATM",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-08-22",
+          "team1": "CEL",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-08-22",
+          "team1": "VAL",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 2",
+      "matches": [
+        {
+          "date": "2016-08-26",
+          "team1": "BET",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-08-26",
+          "team1": "ESP",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-08-27",
+          "team1": "OSA",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-08-27",
+          "team1": "EIB",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-08-27",
+          "team1": "RMA",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-08-27",
+          "team1": "LEG",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-08-28",
+          "team1": "LPA",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-08-28",
+          "team1": "ALA",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-08-28",
+          "team1": "ATH",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-08-28",
+          "team1": "VIL",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 3",
+      "matches": [
+        {
+          "date": "2016-09-09",
+          "team1": "RSO",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-10",
+          "team1": "CEL",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2016-09-10",
+          "team1": "RMA",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              5,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-10",
+          "team1": "MGA",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-10",
+          "team1": "SEV",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-10",
+          "team1": "BAR",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-11",
+          "team1": "SPO",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-11",
+          "team1": "VAL",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-09-11",
+          "team1": "GRA",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-11",
+          "team1": "RCD",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 4",
+      "matches": [
+        {
+          "date": "2016-09-16",
+          "team1": "BET",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-17",
+          "team1": "LEG",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              1,
+              5
+            ]
+          }
+        },
+        {
+          "date": "2016-09-17",
+          "team1": "ATM",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-09-17",
+          "team1": "EIB",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-17",
+          "team1": "LPA",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-09-18",
+          "team1": "OSA",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-09-18",
+          "team1": "ATH",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-18",
+          "team1": "VIL",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-18",
+          "team1": "ESP",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-19",
+          "team1": "ALA",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 5",
+      "matches": [
+        {
+          "date": "2016-09-20",
+          "team1": "MGA",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-20",
+          "team1": "SEV",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-09-21",
+          "team1": "RMA",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-21",
+          "team1": "CEL",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-21",
+          "team1": "GRA",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-21",
+          "team1": "RSO",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-21",
+          "team1": "BAR",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-22",
+          "team1": "RCD",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-22",
+          "team1": "OSA",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-22",
+          "team1": "VAL",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 6",
+      "matches": [
+        {
+          "date": "2016-09-23",
+          "team1": "BET",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-09-24",
+          "team1": "EIB",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-09-24",
+          "team1": "SPO",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              0,
+              5
+            ]
+          }
+        },
+        {
+          "date": "2016-09-24",
+          "team1": "ATH",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-24",
+          "team1": "LPA",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-25",
+          "team1": "LEG",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-25",
+          "team1": "ATM",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-09-25",
+          "team1": "VIL",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-09-25",
+          "team1": "ESP",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-09-26",
+          "team1": "ALA",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 7",
+      "matches": [
+        {
+          "date": "2016-09-30",
+          "team1": "RSO",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-10-01",
+          "team1": "GRA",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-01",
+          "team1": "SEV",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-01",
+          "team1": "OSA",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-10-01",
+          "team1": "RCD",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-02",
+          "team1": "VAL",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-10-02",
+          "team1": "RMA",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-02",
+          "team1": "ESP",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-10-02",
+          "team1": "MGA",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-02",
+          "team1": "CEL",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              4,
+              3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 8",
+      "matches": [
+        {
+          "date": "2016-10-14",
+          "team1": "LPA",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-10-15",
+          "team1": "LEG",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-10-15",
+          "team1": "BAR",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-10-15",
+          "team1": "ATM",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              7,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-15",
+          "team1": "BET",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              1,
+              6
+            ]
+          }
+        },
+        {
+          "date": "2016-10-16",
+          "team1": "ALA",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-16",
+          "team1": "ATH",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-10-16",
+          "team1": "SPO",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-10-16",
+          "team1": "VIL",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-10-17",
+          "team1": "EIB",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 9",
+      "matches": [
+        {
+          "date": "2016-10-21",
+          "team1": "OSA",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-10-22",
+          "team1": "ESP",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-10-22",
+          "team1": "VAL",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-10-22",
+          "team1": "RSO",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-10-22",
+          "team1": "GRA",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-10-23",
+          "team1": "CEL",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-23",
+          "team1": "SEV",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-10-23",
+          "team1": "VIL",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-23",
+          "team1": "MGA",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-10-23",
+          "team1": "RMA",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 10",
+      "matches": [
+        {
+          "date": "2016-10-28",
+          "team1": "LEG",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-10-29",
+          "team1": "SPO",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-29",
+          "team1": "ALA",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2016-10-29",
+          "team1": "ATM",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-10-29",
+          "team1": "BAR",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-10-30",
+          "team1": "EIB",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-30",
+          "team1": "ATH",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-30",
+          "team1": "BET",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-10-30",
+          "team1": "LPA",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-10-31",
+          "team1": "RCD",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 11",
+      "matches": [
+        {
+          "date": "2016-11-04",
+          "team1": "MGA",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-11-05",
+          "team1": "GRA",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-11-05",
+          "team1": "RSO",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-11-05",
+          "team1": "OSA",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-11-05",
+          "team1": "LPA",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-11-06",
+          "team1": "RMA",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-11-06",
+          "team1": "ESP",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-11-06",
+          "team1": "CEL",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-11-06",
+          "team1": "VIL",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-11-06",
+          "team1": "SEV",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 12",
+      "matches": [
+        {
+          "date": "2016-11-18",
+          "team1": "BET",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-11-19",
+          "team1": "RCD",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-11-19",
+          "team1": "BAR",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-11-19",
+          "team1": "EIB",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-11-19",
+          "team1": "ATM",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-11-20",
+          "team1": "ALA",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-11-20",
+          "team1": "VAL",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-11-20",
+          "team1": "SPO",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-11-20",
+          "team1": "ATH",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-11-21",
+          "team1": "LEG",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 13",
+      "matches": [
+        {
+          "date": "2016-11-25",
+          "team1": "EIB",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-11-26",
+          "team1": "MGA",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              4,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-11-26",
+          "team1": "RMA",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-11-26",
+          "team1": "ESP",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-11-26",
+          "team1": "SEV",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-11-27",
+          "team1": "VIL",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-11-27",
+          "team1": "OSA",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-11-27",
+          "team1": "CEL",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-11-27",
+          "team1": "RSO",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-11-28",
+          "team1": "LPA",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 14",
+      "matches": [
+        {
+          "date": "2016-12-03",
+          "team1": "GRA",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-12-03",
+          "team1": "BAR",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-12-03",
+          "team1": "LEG",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-12-03",
+          "team1": "ATM",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-12-04",
+          "team1": "BET",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-12-04",
+          "team1": "ATH",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-12-04",
+          "team1": "SPO",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-12-04",
+          "team1": "ALA",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-12-04",
+          "team1": "VAL",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-12-05",
+          "team1": "RCD",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 15",
+      "matches": [
+        {
+          "date": "2016-12-09",
+          "team1": "MGA",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-12-10",
+          "team1": "OSA",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-12-10",
+          "team1": "RSO",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-12-10",
+          "team1": "LPA",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-12-10",
+          "team1": "RMA",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-12-11",
+          "team1": "EIB",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-12-11",
+          "team1": "CEL",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-12-11",
+          "team1": "ESP",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-12-11",
+          "team1": "BET",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-12-12",
+          "team1": "VIL",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 16",
+      "matches": [
+        {
+          "date": "2016-12-16",
+          "team1": "ALA",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-12-17",
+          "team1": "SPO",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2016-12-17",
+          "team1": "ATM",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-12-17",
+          "team1": "GRA",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2016-12-17",
+          "team1": "SEV",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-12-18",
+          "team1": "LEG",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-12-18",
+          "team1": "RCD",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2016-12-18",
+          "team1": "BAR",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2016-12-19",
+          "team1": "ATH",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-22",
+          "team1": "VAL",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 17",
+      "matches": [
+        {
+          "date": "2017-01-06",
+          "team1": "ESP",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-07",
+          "team1": "RMA",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-07",
+          "team1": "EIB",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-01-07",
+          "team1": "LPA",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-07",
+          "team1": "RSO",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-01-08",
+          "team1": "ATH",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-08",
+          "team1": "BET",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-08",
+          "team1": "CEL",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-08",
+          "team1": "VIL",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-09",
+          "team1": "OSA",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 18",
+      "matches": [
+        {
+          "date": "2017-01-14",
+          "team1": "LEG",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-14",
+          "team1": "BAR",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-14",
+          "team1": "ATM",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-14",
+          "team1": "RCD",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-15",
+          "team1": "VAL",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-15",
+          "team1": "CEL",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-15",
+          "team1": "GRA",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-15",
+          "team1": "SPO",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-01-15",
+          "team1": "SEV",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-16",
+          "team1": "MGA",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 19",
+      "matches": [
+        {
+          "date": "2017-01-20",
+          "team1": "LPA",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-21",
+          "team1": "ESP",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-21",
+          "team1": "RMA",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-21",
+          "team1": "ALA",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-01-21",
+          "team1": "VIL",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-01-22",
+          "team1": "OSA",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              3,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-01-22",
+          "team1": "ATH",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-01-22",
+          "team1": "BET",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-22",
+          "team1": "RSO",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-22",
+          "team1": "EIB",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 20",
+      "matches": [
+        {
+          "date": "2017-01-27",
+          "team1": "OSA",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-28",
+          "team1": "VIL",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-28",
+          "team1": "ALA",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-28",
+          "team1": "EIB",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-28",
+          "team1": "LEG",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-01-29",
+          "team1": "BET",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-29",
+          "team1": "ESP",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-29",
+          "team1": "ATH",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-01-29",
+          "team1": "RMA",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-01-30",
+          "team1": "LPA",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 21",
+      "matches": [
+        {
+          "date": "2017-02-04",
+          "team1": "MGA",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-04",
+          "team1": "BAR",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-02-04",
+          "team1": "ATM",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-02-04",
+          "team1": "VAL",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-02-05",
+          "team1": "SEV",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-02-05",
+          "team1": "SPO",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-02-05",
+          "team1": "RSO",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-02-06",
+          "team1": "GRA",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-03-08",
+          "team1": "RCD",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-17",
+          "team1": "CEL",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 22",
+      "matches": [
+        {
+          "date": "2017-02-10",
+          "team1": "ESP",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-02-11",
+          "team1": "BET",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-02-11",
+          "team1": "ALA",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              0,
+              6
+            ]
+          }
+        },
+        {
+          "date": "2017-02-11",
+          "team1": "ATH",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-11",
+          "team1": "OSA",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-02-12",
+          "team1": "VIL",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-12",
+          "team1": "LEG",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-02-12",
+          "team1": "LPA",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-12",
+          "team1": "ATM",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-02-13",
+          "team1": "EIB",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 23",
+      "matches": [
+        {
+          "date": "2017-02-17",
+          "team1": "GRA",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-18",
+          "team1": "SPO",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-02-18",
+          "team1": "RMA",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-02-18",
+          "team1": "RCD",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-18",
+          "team1": "SEV",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-02-19",
+          "team1": "RSO",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-19",
+          "team1": "VAL",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-02-19",
+          "team1": "CEL",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-02-19",
+          "team1": "BAR",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-20",
+          "team1": "MGA",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 24",
+      "matches": [
+        {
+          "date": "2017-02-24",
+          "team1": "LPA",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-25",
+          "team1": "ALA",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-25",
+          "team1": "BET",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-02-25",
+          "team1": "LEG",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-02-25",
+          "team1": "EIB",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-02-26",
+          "team1": "ESP",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-02-26",
+          "team1": "ATM",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-02-26",
+          "team1": "SPO",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-26",
+          "team1": "ATH",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-02-26",
+          "team1": "VIL",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 25",
+      "matches": [
+        {
+          "date": "2017-02-28",
+          "team1": "RSO",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-02-28",
+          "team1": "MGA",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-02-28",
+          "team1": "VAL",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-03-01",
+          "team1": "OSA",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-03-01",
+          "team1": "BAR",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              6,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-01",
+          "team1": "CEL",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-03-01",
+          "team1": "RMA",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-03-01",
+          "team1": "GRA",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-02",
+          "team1": "RCD",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-02",
+          "team1": "SEV",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 26",
+      "matches": [
+        {
+          "date": "2017-03-03",
+          "team1": "BET",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-03-04",
+          "team1": "LEG",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-03-04",
+          "team1": "EIB",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-03-04",
+          "team1": "VIL",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-03-04",
+          "team1": "BAR",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-03-05",
+          "team1": "SPO",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-05",
+          "team1": "ATM",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-03-05",
+          "team1": "LPA",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              5,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-03-05",
+          "team1": "ATH",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-03-06",
+          "team1": "ALA",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 27",
+      "matches": [
+        {
+          "date": "2017-03-10",
+          "team1": "ESP",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              4,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-03-11",
+          "team1": "VAL",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-11",
+          "team1": "SEV",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-11",
+          "team1": "MGA",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-03-11",
+          "team1": "GRA",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-12",
+          "team1": "RSO",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-03-12",
+          "team1": "RCD",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-12",
+          "team1": "CEL",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-12",
+          "team1": "RMA",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-13",
+          "team1": "OSA",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 28",
+      "matches": [
+        {
+          "date": "2017-03-17",
+          "team1": "LPA",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-03-18",
+          "team1": "EIB",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-18",
+          "team1": "ATH",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-03-18",
+          "team1": "ALA",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-03-18",
+          "team1": "BET",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-03-19",
+          "team1": "LEG",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-03-19",
+          "team1": "ATM",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-19",
+          "team1": "RCD",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-19",
+          "team1": "SPO",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-03-19",
+          "team1": "BAR",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 29",
+      "matches": [
+        {
+          "date": "2017-03-31",
+          "team1": "ESP",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-01",
+          "team1": "VIL",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-04-01",
+          "team1": "OSA",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-04-01",
+          "team1": "RSO",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-01",
+          "team1": "MGA",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-04-02",
+          "team1": "SEV",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-02",
+          "team1": "RMA",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-02",
+          "team1": "VAL",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-02",
+          "team1": "GRA",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-04-03",
+          "team1": "CEL",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 30",
+      "matches": [
+        {
+          "date": "2017-04-04",
+          "team1": "ATH",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-04",
+          "team1": "BET",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-04",
+          "team1": "ATM",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-05",
+          "team1": "BAR",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-05",
+          "team1": "SPO",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-05",
+          "team1": "ALA",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-05",
+          "team1": "RCD",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-05",
+          "team1": "LEG",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-04-06",
+          "team1": "EIB",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-06",
+          "team1": "VAL",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 31",
+      "matches": [
+        {
+          "date": "2017-04-07",
+          "team1": "VIL",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-08",
+          "team1": "ESP",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-08",
+          "team1": "RMA",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-08",
+          "team1": "SEV",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-04-08",
+          "team1": "MGA",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-09",
+          "team1": "GRA",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-04-09",
+          "team1": "CEL",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-04-09",
+          "team1": "OSA",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-09",
+          "team1": "LPA",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-10",
+          "team1": "RSO",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 32",
+      "matches": [
+        {
+          "date": "2017-04-14",
+          "team1": "ATH",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-15",
+          "team1": "RCD",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-15",
+          "team1": "SPO",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-04-15",
+          "team1": "ATM",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-15",
+          "team1": "BAR",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-04-16",
+          "team1": "LEG",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-16",
+          "team1": "VAL",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-16",
+          "team1": "BET",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-16",
+          "team1": "GRA",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-04-17",
+          "team1": "ALA",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 33",
+      "matches": [
+        {
+          "date": "2017-04-21",
+          "team1": "SEV",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-22",
+          "team1": "MGA",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-22",
+          "team1": "VIL",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-22",
+          "team1": "OSA",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-04-22",
+          "team1": "ESP",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-23",
+          "team1": "RSO",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-23",
+          "team1": "CEL",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-23",
+          "team1": "LPA",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-23",
+          "team1": "RMA",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-04-24",
+          "team1": "EIB",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 34",
+      "matches": [
+        {
+          "date": "2017-04-25",
+          "team1": "SPO",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-25",
+          "team1": "GRA",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-04-25",
+          "team1": "ATM",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-26",
+          "team1": "BAR",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              7,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-26",
+          "team1": "LEG",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-26",
+          "team1": "VAL",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-04-26",
+          "team1": "RCD",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              2,
+              6
+            ]
+          }
+        },
+        {
+          "date": "2017-04-27",
+          "team1": "ALA",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-27",
+          "team1": "SEV",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-27",
+          "team1": "ATH",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 35",
+      "matches": [
+        {
+          "date": "2017-04-28",
+          "team1": "VIL",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-29",
+          "team1": "RSO",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-29",
+          "team1": "RMA",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-04-29",
+          "team1": "LPA",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              0,
+              5
+            ]
+          }
+        },
+        {
+          "date": "2017-04-29",
+          "team1": "ESP",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-04-30",
+          "team1": "OSA",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-04-30",
+          "team1": "BET",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-04-30",
+          "team1": "EIB",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-04-30",
+          "team1": "CEL",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-05-01",
+          "team1": "MGA",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 36",
+      "matches": [
+        {
+          "date": "2017-05-05",
+          "team1": "SEV",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-06",
+          "team1": "SPO",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-05-06",
+          "team1": "ATM",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-05-06",
+          "team1": "BAR",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-06",
+          "team1": "GRA",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-05-07",
+          "team1": "ALA",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-05-07",
+          "team1": "VAL",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-07",
+          "team1": "RCD",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-05-07",
+          "team1": "MGA",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-05-08",
+          "team1": "LEG",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 37",
+      "matches": [
+        {
+          "date": "2017-05-13",
+          "team1": "ESP",
+          "team2": "VAL",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-13",
+          "team1": "OSA",
+          "team2": "GRA",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-14",
+          "team1": "ALA",
+          "team2": "CEL",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-14",
+          "team1": "LPA",
+          "team2": "BAR",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2017-05-14",
+          "team1": "ATH",
+          "team2": "LEG",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-14",
+          "team1": "EIB",
+          "team2": "SPO",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-14",
+          "team1": "VIL",
+          "team2": "RCD",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-05-14",
+          "team1": "RMA",
+          "team2": "SEV",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-14",
+          "team1": "RSO",
+          "team2": "MGA",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-05-14",
+          "team1": "BET",
+          "team2": "ATM",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jornada 38",
+      "matches": [
+        {
+          "date": "2017-05-19",
+          "team1": "GRA",
+          "team2": "ESP",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-05-20",
+          "team1": "SPO",
+          "team2": "BET",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-05-20",
+          "team1": "LEG",
+          "team2": "ALA",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-20",
+          "team1": "RCD",
+          "team2": "LPA",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-05-20",
+          "team1": "SEV",
+          "team2": "OSA",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-05-21",
+          "team1": "CEL",
+          "team2": "RSO",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-05-21",
+          "team1": "VAL",
+          "team2": "VIL",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2017-05-21",
+          "team1": "ATM",
+          "team2": "ATH",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-05-21",
+          "team1": "BAR",
+          "team2": "EIB",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2017-05-21",
+          "team1": "MGA",
+          "team2": "RMA",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

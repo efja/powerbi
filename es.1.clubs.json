@@ -1,0 +1,105 @@
+{
+  "name": "Primera División 2016/17",
+  "clubs": [
+    {
+      "name": "Espanyol",
+      "code": "ESP",
+      "country": "Spain"
+    },
+    {
+      "name": "Sevilla",
+      "code": "SEV",
+      "country": "Spain"
+    },
+    {
+      "name": "Celta de Vigo",
+      "code": "CEL",
+      "country": "Spain"
+    },
+    {
+      "name": "Malaga",
+      "code": "MGA",
+      "country": "Spain"
+    },
+    {
+      "name": "Atletico de Madrid",
+      "code": "ATM",
+      "country": "Spain"
+    },
+    {
+      "name": "Real Madrid",
+      "code": "RMA",
+      "country": "Spain"
+    },
+    {
+      "name": "Valencia",
+      "code": "VAL",
+      "country": "Spain"
+    },
+    {
+      "name": "Barcelona",
+      "code": "BAR",
+      "country": "Spain"
+    },
+    {
+      "name": "Real Sociedad",
+      "code": "RSO",
+      "country": "Spain"
+    },
+    {
+      "name": "Athletic Club",
+      "code": "ATH",
+      "country": "Spain"
+    },
+    {
+      "name": "Betis",
+      "code": "BET",
+      "country": "Spain"
+    },
+    {
+      "name": "Deportivo",
+      "code": "RCD",
+      "country": "Spain"
+    },
+    {
+      "name": "Osasuna",
+      "code": "OSA",
+      "country": "Spain"
+    },
+    {
+      "name": "Granada",
+      "code": "GRA",
+      "country": "Spain"
+    },
+    {
+      "name": "Villarreal",
+      "code": "VIL",
+      "country": "Spain"
+    },
+    {
+      "name": "Las Palmas",
+      "code": "LPA",
+      "country": "Spain"
+    },
+    {
+      "name": "Sporting",
+      "code": "SPO",
+      "country": "Spain"
+    },
+    {
+      "name": "Alaves",
+      "code": "ALA",
+      "country": "Spain"
+    },
+    {
+      "name": "Eibar",
+      "code": "EIB",
+      "country": "Spain"
+    },
+    {
+      "name": "Leganes",
+      "code": "LEG",
+      "country": "Spain"
+    }
+  ]
+}

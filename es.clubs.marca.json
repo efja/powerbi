@@ -1,0 +1,1515 @@
+{
+  "total": 20,
+  "teams": [
+    {
+      "id": 3,
+      "slug": "athletic-club",
+      "name": "Athletic Club",
+      "nickname": "Athletic Club",
+      "boundname": "Athletic Club",
+      "shortname": "ATH",
+      "color": "#e2383f",
+      "color_secondary": "#ffffff",
+      "foundation": "1898-12-31T00:00:00+00:00",
+      "web": "https://www.athletic-club.eus",
+      "sprite_status": "created",
+      "club": {
+        "id": 3,
+        "slug": "athletic-club",
+        "name": "Athletic Club",
+        "nickname": "Athletic Club",
+        "boundname": "Athletic Club",
+        "shortname": "ATH",
+        "selector_name": "Athletic",
+        "address": "Estadio San Mamés. C/ Rafael Moreno Pichichi, s/n. 48013 Bilbao (Vizcaya)",
+        "foundation": "1898-12-31T00:00:00+00:00",
+        "web": "https://www.athletic-club.eus",
+        "twitter": "@AthleticClub",
+        "facebook": "https://www.facebook.com/ATHLETICCLUB",
+        "instagram": "https://instagram.com/athleticclub",
+        "mail": "prentsa@athletic-club.eus",
+        "phone": "0034 944 240 877 // 0034 944 240 878",
+        "fax": "0034 944 233 324",
+        "president": "Jon Uriarte"
+      },
+      "venue": {
+        "id": 3,
+        "name": "Estadio San Mamés",
+        "latitude": "43.2641",
+        "longitude": "-2.94704",
+        "capacity": 53332,
+        "address": "San Mamés - Felipe Serrate s/n. Bilbao 48013",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 381097,
+          "name": "san mames",
+          "url": "https://assets.laliga.com/assets/2019/06/17/xlarge/f020571f7c260516dfab3b9dc5df6348.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/06/17/xsmall/f020571f7c260516dfab3b9dc5df6348.png",
+            "small": "https://assets.laliga.com/assets/2019/06/17/small/f020571f7c260516dfab3b9dc5df6348.png",
+            "medium": "https://assets.laliga.com/assets/2019/06/17/medium/f020571f7c260516dfab3b9dc5df6348.png",
+            "large": "https://assets.laliga.com/assets/2019/06/17/large/f020571f7c260516dfab3b9dc5df6348.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/06/17/xlarge/f020571f7c260516dfab3b9dc5df6348.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Bilbo",
+        "slug": "estadio-san-mames",
+        "opta_id": "v8973",
+        "lde_id": 922
+      },
+      "shield": {
+        "id": 125,
+        "name": "Escudo ATH",
+        "caption": "Escudo ATH",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/athletic.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/athletic.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/athletic.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/athletic.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/athletic.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/athletic.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t174",
+      "lde_id": 68
+    },
+    {
+      "id": 2,
+      "slug": "atletico-de-madrid",
+      "name": "Club Atlético de Madrid SAD",
+      "nickname": "Atlético de Madrid",
+      "boundname": "Atlético de Madrid",
+      "shortname": "ATM",
+      "color": "#e2383f",
+      "color_secondary": "#ffffff",
+      "shirt_style": "striped",
+      "foundation": "1903-04-26T00:00:00+00:00",
+      "web": "http://www.atleticodemadrid.com/",
+      "sprite_status": "created",
+      "club": {
+        "id": 2,
+        "slug": "atletico-de-madrid",
+        "name": "Club Atlético de Madrid SAD",
+        "nickname": "Atlético de Madrid",
+        "boundname": "Atlético de Madrid",
+        "shortname": "ATM",
+        "selector_name": "Atlético",
+        "address": "Cívitas Metropolitano (Acceso W2)Avenida Luis Aragonés nº 4 28022 (Madrid)",
+        "foundation": "1903-04-26T00:00:00+00:00",
+        "web": "http://www.atleticodemadrid.com/",
+        "twitter": "@Atleti",
+        "facebook": "https://www.facebook.com/AtleticodeMadrid",
+        "instagram": "https://instagram.com/atleticodemadrid/",
+        "mail": "media@atleticodemadrid.com",
+        "phone": "0034 902 260 403",
+        "fax": "0034 913 650 088",
+        "president": "Enrique Cerezo Torres"
+      },
+      "venue": {
+        "id": 259,
+        "name": "Civitas Metropolitano",
+        "latitude": "40.44184",
+        "longitude": "-3.60278",
+        "capacity": 67703,
+        "address": "Av. de Luis Aragones, 4, 28022 Madrid",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 381099,
+          "name": "wanda",
+          "url": "https://assets.laliga.com/assets/2019/06/17/xlarge/935f92c15c4d3442ef3f6d843beba0e1.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/06/17/xsmall/935f92c15c4d3442ef3f6d843beba0e1.png",
+            "small": "https://assets.laliga.com/assets/2019/06/17/small/935f92c15c4d3442ef3f6d843beba0e1.png",
+            "medium": "https://assets.laliga.com/assets/2019/06/17/medium/935f92c15c4d3442ef3f6d843beba0e1.png",
+            "large": "https://assets.laliga.com/assets/2019/06/17/large/935f92c15c4d3442ef3f6d843beba0e1.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/06/17/xlarge/935f92c15c4d3442ef3f6d843beba0e1.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Madrid",
+        "slug": "civitas-metropolitano",
+        "opta_id": "v12175",
+        "lde_id": 510
+      },
+      "shield": {
+        "id": 123,
+        "name": "Escudo ATM",
+        "caption": "Escudo ATM",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/atletico.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/atletico.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/atletico.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/atletico.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/atletico.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/atletico.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t175",
+      "lde_id": 70
+    },
+    {
+      "id": 13,
+      "slug": "c-a-osasuna",
+      "name": "Club Atlético Osasuna",
+      "nickname": "CA Osasuna",
+      "boundname": "CA Osasuna",
+      "shortname": "OSA",
+      "color": "#e2383f",
+      "color_secondary": "#0077c8",
+      "color_text": "#f5f5f6",
+      "foundation": "1920-11-17T00:00:00+00:00",
+      "web": "http://www.osasuna.es/",
+      "sprite_status": "created",
+      "club": {
+        "id": 13,
+        "slug": "ca-osasuna-1",
+        "name": "Club Atlético Osasuna",
+        "nickname": "CA Osasuna",
+        "boundname": "CA Osasuna",
+        "shortname": "OSA",
+        "selector_name": "Osasuna",
+        "address": "Estadio El Sadar,C/ Sadar s/n, 31006,Pamplona (Navarra)",
+        "foundation": "1920-11-17T00:00:00+00:00",
+        "web": "http://www.osasuna.es/",
+        "twitter": "@CAOsasuna",
+        "facebook": "https://www.facebook.com/C.A.Osasuna.Oficial",
+        "instagram": "https://instagram.com/caosasuna",
+        "mail": "osasuna@osasuna.es",
+        "phone": "0034 948 152 636",
+        "fax": "0034 948 151 655",
+        "president": "Luis Sabalza"
+      },
+      "venue": {
+        "id": 13,
+        "name": "Estadio El Sadar",
+        "latitude": "42.79634",
+        "longitude": "-1.63848",
+        "capacity": 18570,
+        "address": "C/ Sadar, s/n, Pamplona (Navarra)",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 495359,
+          "name": "el-sadar.png",
+          "url": "https://assets.laliga.com/assets/2021/01/20/xlarge/c1b35f03ff875a4a12c7dcbd477d964a.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2021/01/20/xsmall/c1b35f03ff875a4a12c7dcbd477d964a.png",
+            "small": "https://assets.laliga.com/assets/2021/01/20/small/c1b35f03ff875a4a12c7dcbd477d964a.png",
+            "medium": "https://assets.laliga.com/assets/2021/01/20/medium/c1b35f03ff875a4a12c7dcbd477d964a.png",
+            "large": "https://assets.laliga.com/assets/2021/01/20/large/c1b35f03ff875a4a12c7dcbd477d964a.png",
+            "xlarge": "https://assets.laliga.com/assets/2021/01/20/xlarge/c1b35f03ff875a4a12c7dcbd477d964a.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Pamplona",
+        "slug": "estadio-el-sadar",
+        "opta_id": "v1357",
+        "lde_id": 726
+      },
+      "shield": {
+        "id": 145,
+        "name": "Escudo OSA",
+        "caption": "Escudo OSA",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/osasuna.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/osasuna.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/osasuna.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/osasuna.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/osasuna.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/osasuna.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t450",
+      "lde_id": 190
+    },
+    {
+      "id": 54,
+      "slug": "cd-leganes",
+      "name": "Club Deportivo Leganés SAD",
+      "nickname": "CD Leganés",
+      "boundname": "CD Leganés",
+      "shortname": "LEG",
+      "color": "#1476c4",
+      "color_secondary": "#ffffff",
+      "shirt_style": "mono",
+      "foundation": "1928-06-23T00:00:00+00:00",
+      "web": "https://www.cdleganes.com/",
+      "sprite_status": "created",
+      "club": {
+        "id": 54,
+        "slug": "cd-leganes",
+        "name": "Club Deportivo Leganés SAD",
+        "nickname": "CD Leganés",
+        "boundname": "CD Leganés",
+        "shortname": "LEG",
+        "selector_name": "Leganés",
+        "address": "Estadio Municipal de Butarque. Dirección: C/ Arquitectura, s/nCP: 28914 – Leganés (Madrid)",
+        "foundation": "1928-06-23T00:00:00+00:00",
+        "web": "http://www.deportivoleganes.com/",
+        "twitter": "@CDLeganes",
+        "facebook": "https://www.facebook.com/ClubDeportivoLeganes",
+        "instagram": "https://instagram.com/cdleganes/",
+        "mail": "comunicacion@cdleganes.com",
+        "phone": "91 688 86 29",
+        "fax": "91 688 71 59",
+        "president": "Jeff Luhnow"
+      },
+      "venue": {
+        "id": 53,
+        "name": "Estadio Municipal Butarque",
+        "latitude": "40.33944",
+        "longitude": "-3.76275",
+        "capacity": 12450,
+        "address": "C/ Arquitectura, s/n. 28914 Leganés (Madrid)",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 395454,
+          "name": "Butarque sept 19",
+          "url": "https://assets.laliga.com/assets/2019/10/03/xlarge/2b7303ff6a9beaf1b4dc88599116df55.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/10/03/xsmall/2b7303ff6a9beaf1b4dc88599116df55.png",
+            "small": "https://assets.laliga.com/assets/2019/10/03/small/2b7303ff6a9beaf1b4dc88599116df55.png",
+            "medium": "https://assets.laliga.com/assets/2019/10/03/medium/2b7303ff6a9beaf1b4dc88599116df55.png",
+            "large": "https://assets.laliga.com/assets/2019/10/03/large/2b7303ff6a9beaf1b4dc88599116df55.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/10/03/xlarge/2b7303ff6a9beaf1b4dc88599116df55.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Leganés",
+        "slug": "estadio-municipal-butarque",
+        "opta_id": "v6791",
+        "lde_id": 890
+      },
+      "shield": {
+        "id": 225,
+        "name": "Escudo LEG",
+        "caption": "Escudo LEG",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/leganes.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/leganes.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/leganes.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/leganes.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/leganes.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/leganes.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t957",
+      "lde_id": 264
+    },
+    {
+      "id": 21,
+      "slug": "d-alaves",
+      "name": "Deportivo Alavés SAD",
+      "nickname": "Deportivo Alavés",
+      "boundname": "Deportivo Alavés",
+      "shortname": "ALA",
+      "color": "#54bed9",
+      "color_secondary": "#ffffff",
+      "foundation": "1921-01-23T00:00:00+00:00",
+      "web": "http://www.deportivoalaves.com/",
+      "sprite_status": "created",
+      "club": {
+        "id": 21,
+        "slug": "deportivo-alaves",
+        "name": "Deportivo Alavés SAD",
+        "nickname": "Deportivo Alavés",
+        "boundname": "Deportivo Alavés",
+        "shortname": "ALV",
+        "selector_name": "Alavés",
+        "address": "Estadio de Mendizorroza,Paseo Cervantes s/n,01007 Vitoria",
+        "foundation": "1921-01-23T00:00:00+00:00",
+        "web": "http://www.deportivoalaves.com/",
+        "twitter": "@Alaves",
+        "facebook": "https://www.facebook.com/deportivoalaves",
+        "mail": "deportivoalavessad@alaves.com",
+        "phone": "0034 945 131 018",
+        "president": "Alfonso Fernández de Trocóniz"
+      },
+      "venue": {
+        "id": 21,
+        "name": "Mendizorroza",
+        "latitude": "42.84813",
+        "longitude": "-2.65032",
+        "capacity": 19840,
+        "address": "Estadio de Mendizorroza. Paseo Cervantes, s/n. 01013 Vitoria-Gastéiz (Álava)",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 381091,
+          "name": "mendizorroza",
+          "url": "https://assets.laliga.com/assets/2019/06/17/xlarge/6b906780ba96aa6689192fb9afcaac6b.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/06/17/xsmall/6b906780ba96aa6689192fb9afcaac6b.png",
+            "small": "https://assets.laliga.com/assets/2019/06/17/small/6b906780ba96aa6689192fb9afcaac6b.png",
+            "medium": "https://assets.laliga.com/assets/2019/06/17/medium/6b906780ba96aa6689192fb9afcaac6b.png",
+            "large": "https://assets.laliga.com/assets/2019/06/17/large/6b906780ba96aa6689192fb9afcaac6b.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/06/17/xlarge/6b906780ba96aa6689192fb9afcaac6b.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Vitoria-Gasteiz",
+        "slug": "mendizorroza",
+        "opta_id": "v1346",
+        "lde_id": 720
+      },
+      "shield": {
+        "id": 467523,
+        "name": "Escudo Deportivo Alavés",
+        "caption": "Escudo Deportivo Alavés",
+        "url": "https://assets.laliga.com/assets/2020/09/01/xlarge/27002754a98bf535807fe49a24cc63ea.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2020/09/01/xsmall/27002754a98bf535807fe49a24cc63ea.png",
+          "small": "https://assets.laliga.com/assets/2020/09/01/small/27002754a98bf535807fe49a24cc63ea.png",
+          "medium": "https://assets.laliga.com/assets/2020/09/01/medium/27002754a98bf535807fe49a24cc63ea.png",
+          "large": "https://assets.laliga.com/assets/2020/09/01/large/27002754a98bf535807fe49a24cc63ea.png",
+          "xlarge": "https://assets.laliga.com/assets/2020/09/01/xlarge/27002754a98bf535807fe49a24cc63ea.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t173",
+      "lde_id": 66
+    },
+    {
+      "id": 4,
+      "slug": "fc-barcelona",
+      "name": "Fútbol Club Barcelona",
+      "nickname": "FC Barcelona",
+      "boundname": "FC Barcelona",
+      "shortname": "BAR",
+      "color": "#a50044",
+      "color_secondary": "#004d98",
+      "shirt_style": "striped",
+      "foundation": "1899-11-29T00:00:00+00:00",
+      "web": "http://www.fcbarcelona.es",
+      "sprite_status": "created",
+      "club": {
+        "id": 4,
+        "slug": "fc-barcelona",
+        "name": "Fútbol Club Barcelona",
+        "nickname": "FC Barcelona",
+        "boundname": "FC Barcelona",
+        "shortname": "BAR",
+        "selector_name": "FC Barcelona",
+        "address": "Estadio Spotify Camp Nou,C/ Arístides Mallol, 12,08028 Barcelona",
+        "foundation": "1899-11-29T00:00:00+00:00",
+        "web": "http://www.fcbarcelona.es",
+        "twitter": "@FCBarcelona_es",
+        "facebook": "https://www.facebook.com/fcbarcelona",
+        "instagram": "https://instagram.com/fcbarcelona",
+        "mail": "oab@fcbarcelona.cat",
+        "phone": "0034 902 189 900",
+        "president": "Joan Laporta"
+      },
+      "venue": {
+        "id": 4,
+        "name": "Spotify Camp Nou",
+        "latitude": "41.38107",
+        "longitude": "2.11909",
+        "capacity": 99354,
+        "address": "Avenida Arístides Maillol s/n 08028 Barcelona.",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 381085,
+          "name": "camp nou",
+          "url": "https://assets.laliga.com/assets/2019/06/17/xlarge/0623ce55ec3ee4e439ed6d24fe2ba77b.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/06/17/xsmall/0623ce55ec3ee4e439ed6d24fe2ba77b.png",
+            "small": "https://assets.laliga.com/assets/2019/06/17/small/0623ce55ec3ee4e439ed6d24fe2ba77b.png",
+            "medium": "https://assets.laliga.com/assets/2019/06/17/medium/0623ce55ec3ee4e439ed6d24fe2ba77b.png",
+            "large": "https://assets.laliga.com/assets/2019/06/17/large/0623ce55ec3ee4e439ed6d24fe2ba77b.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/06/17/xlarge/0623ce55ec3ee4e439ed6d24fe2ba77b.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Barcelona",
+        "slug": "spotify-camp-nou",
+        "opta_id": "v1349",
+        "lde_id": 514
+      },
+      "shield": {
+        "id": 127,
+        "name": "Escudo BAR",
+        "caption": "Escudo BAR",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/barcelona.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/barcelona.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/barcelona.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/barcelona.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/barcelona.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/barcelona.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t178",
+      "lde_id": 74
+    },
+    {
+      "id": 10,
+      "slug": "granada-cf",
+      "name": "Granada Club de Fútbol SAD",
+      "nickname": "Granada CF",
+      "boundname": "Granada CF",
+      "shortname": "GRA",
+      "color": "#e2383f",
+      "foundation": "1931-01-01T00:00:00+00:00",
+      "web": "http://www.granadacf.es",
+      "sprite_status": "created",
+      "club": {
+        "id": 10,
+        "slug": "granada-cf",
+        "name": "Granada Club de Fútbol SAD",
+        "nickname": "Granada CF",
+        "boundname": "Granada CF",
+        "shortname": "GRA",
+        "selector_name": "Granada",
+        "address": "Estadio de Los Cármenes,C/ Pintor Manuel Maldonado s/n,18007 Granada",
+        "foundation": "1931-01-01T00:00:00+00:00",
+        "web": "http://www.granadacf.es",
+        "twitter": "@GranadaCF",
+        "facebook": "https://www.facebook.com/GRANADACF.es",
+        "instagram": "https://www.instagram.com/granadacf/",
+        "phone": "0034 958 253 300",
+        "fax": "0034 958 253 304",
+        "president": "Sophia Yang"
+      },
+      "venue": {
+        "id": 10,
+        "name": "Nuevo Los Cármenes",
+        "latitude": "37.1553",
+        "longitude": "-3.59665",
+        "capacity": 19336,
+        "address": "Calle Pintor Manuel Maldonado s/n (Estadio  Los Cármenes) 18007 Granada",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 382428,
+          "name": "Estadio Nuevo Los Cármenes",
+          "caption": "Estadio Nuevo Los Cármenes",
+          "url": "https://assets.laliga.com/assets/2019/08/07/xlarge/4de53714b029bf44d86c53bd0d6835d3.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/08/07/xsmall/4de53714b029bf44d86c53bd0d6835d3.png",
+            "small": "https://assets.laliga.com/assets/2019/08/07/small/4de53714b029bf44d86c53bd0d6835d3.png",
+            "medium": "https://assets.laliga.com/assets/2019/08/07/medium/4de53714b029bf44d86c53bd0d6835d3.png",
+            "large": "https://assets.laliga.com/assets/2019/08/07/large/4de53714b029bf44d86c53bd0d6835d3.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/08/07/xlarge/4de53714b029bf44d86c53bd0d6835d3.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Granada",
+        "slug": "nuevo-los-carmenes",
+        "opta_id": "v3458",
+        "lde_id": 813
+      },
+      "shield": {
+        "id": 660604,
+        "name": "Escudo Granada 2023",
+        "caption": "Escudo Granada 2023",
+        "url": "https://assets.laliga.com/assets/2023/01/17/xlarge/f5db12f3a29fdfd14a0d50337016dc95.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2023/01/17/xsmall/f5db12f3a29fdfd14a0d50337016dc95.png",
+          "small": "https://assets.laliga.com/assets/2023/01/17/small/f5db12f3a29fdfd14a0d50337016dc95.png",
+          "medium": "https://assets.laliga.com/assets/2023/01/17/medium/f5db12f3a29fdfd14a0d50337016dc95.png",
+          "large": "https://assets.laliga.com/assets/2023/01/17/large/f5db12f3a29fdfd14a0d50337016dc95.png",
+          "xlarge": "https://assets.laliga.com/assets/2023/01/17/xlarge/f5db12f3a29fdfd14a0d50337016dc95.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t5683",
+      "lde_id": 206
+    },
+    {
+      "id": 12,
+      "slug": "malaga-cf",
+      "name": "Málaga Club de Fútbol SAD",
+      "nickname": "Málaga CF",
+      "boundname": "Málaga CF",
+      "shortname": "MGA",
+      "color": "#1476c4",
+      "foundation": "1994-06-29T00:00:00+00:00",
+      "web": "http://www.malagacf.com/",
+      "sprite_status": "created",
+      "club": {
+        "id": 12,
+        "slug": "malaga-cf",
+        "name": "Málaga Club de Fútbol SAD",
+        "nickname": "Málaga CF",
+        "boundname": "Málaga CF",
+        "shortname": "MCF",
+        "selector_name": "Málaga",
+        "address": "Estadio La Rosaleda,Paseo de Martiricos s/n,29011 Málaga",
+        "foundation": "1994-06-29T00:00:00+00:00",
+        "web": "http://www.malagacf.com/",
+        "twitter": "@MalagaCF",
+        "facebook": "https://www.facebook.com/MalagaCF",
+        "mail": "administracion@malagacf.es",
+        "phone": "0034 952 104 488",
+        "fax": "0034 952 613 737",
+        "president": "José María Muñoz (Administrador Judicial)"
+      },
+      "venue": {
+        "id": 12,
+        "name": "La Rosaleda",
+        "latitude": "36.72887",
+        "longitude": "-4.42703",
+        "capacity": 30044,
+        "address": "Estadio La Rosaleda. Paseo de Martiricos s/n. 29011 Málaga",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 382490,
+          "name": "Estadio La Rosaleda",
+          "caption": "Estadio La Rosaleda",
+          "url": "https://assets.laliga.com/assets/2019/08/12/xlarge/b1cf44da3b0fe0511b42a6ab3ef10862.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/08/12/xsmall/b1cf44da3b0fe0511b42a6ab3ef10862.png",
+            "small": "https://assets.laliga.com/assets/2019/08/12/small/b1cf44da3b0fe0511b42a6ab3ef10862.png",
+            "medium": "https://assets.laliga.com/assets/2019/08/12/medium/b1cf44da3b0fe0511b42a6ab3ef10862.png",
+            "large": "https://assets.laliga.com/assets/2019/08/12/large/b1cf44da3b0fe0511b42a6ab3ef10862.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/08/12/xlarge/b1cf44da3b0fe0511b42a6ab3ef10862.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Málaga",
+        "slug": "la-rosaleda",
+        "opta_id": "v1354",
+        "lde_id": 722
+      },
+      "shield": {
+        "id": 143,
+        "name": "Escudo MCF",
+        "caption": "Escudo MCF",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/malaga.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/malaga.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/malaga.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/malaga.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/malaga.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/malaga.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t182",
+      "lde_id": 78
+    },
+    {
+      "id": 6,
+      "slug": "rc-celta",
+      "name": "Real Club Celta de Vigo SAD",
+      "nickname": "RC Celta",
+      "boundname": "RC Celta",
+      "shortname": "CEL",
+      "color": "#54bed9",
+      "foundation": "1923-08-23T00:00:00+00:00",
+      "web": "https://www.rccelta.es/index.php/es/",
+      "sprite_status": "created",
+      "club": {
+        "id": 6,
+        "slug": "rc-celta",
+        "name": "Real Club Celta de Vigo SAD",
+        "nickname": "RC Celta",
+        "boundname": "RC Celta",
+        "shortname": "CEL",
+        "selector_name": "Celta",
+        "address": "Estadio ABANCA Balaídos, Avda. de Balaídos s/n, 36210 Vigo (Pontevedra)",
+        "foundation": "1923-08-23T00:00:00+00:00",
+        "web": "http://www.celtavigo.net",
+        "twitter": "@RCCelta",
+        "facebook": "https://www.facebook.com/realclubcelta",
+        "instagram": "https://instagram.com/realclubcelta",
+        "phone": "0034 986 110 900",
+        "fax": "0034 986 292 040",
+        "president": "Manuel Carlos Mouriño Atanes"
+      },
+      "venue": {
+        "id": 6,
+        "name": "Estadio ABANCA Balaídos",
+        "latitude": "42.21286",
+        "longitude": "-8.73665",
+        "capacity": 29000,
+        "address": "Estadio Municipal de Balaidos. Avenida de Balaidos s/n. 36210 Vigo (Pontevedra).",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 381082,
+          "name": "balaidos",
+          "url": "https://assets.laliga.com/assets/2019/06/17/xlarge/0aef263ef366bd0b81369408adb27cd6.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/06/17/xsmall/0aef263ef366bd0b81369408adb27cd6.png",
+            "small": "https://assets.laliga.com/assets/2019/06/17/small/0aef263ef366bd0b81369408adb27cd6.png",
+            "medium": "https://assets.laliga.com/assets/2019/06/17/medium/0aef263ef366bd0b81369408adb27cd6.png",
+            "large": "https://assets.laliga.com/assets/2019/06/17/large/0aef263ef366bd0b81369408adb27cd6.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/06/17/xlarge/0aef263ef366bd0b81369408adb27cd6.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Vigo",
+        "slug": "estadio-abanca-balaidos",
+        "opta_id": "v1350",
+        "lde_id": 721
+      },
+      "shield": {
+        "id": 131,
+        "name": "Escudo CEL",
+        "caption": "Escudo CEL",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/celta.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/celta.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/celta.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/celta.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/celta.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/celta.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t176",
+      "lde_id": 71
+    },
+    {
+      "id": 26,
+      "slug": "rc-deportivo",
+      "name": "Real Club Deportivo de La Coruña SAD",
+      "nickname": "RC Deportivo",
+      "boundname": "RC Deportivo",
+      "shortname": "RCD",
+      "color": "#0077c8",
+      "foundation": "1906-01-01T00:00:00+00:00",
+      "web": "http://www.rcdeportivo.es/",
+      "sprite_status": "not_created",
+      "club": {
+        "id": 26,
+        "slug": "rc-deportivo",
+        "name": "Real Club Deportivo de La Coruña SAD",
+        "nickname": "RC Deportivo",
+        "boundname": "RC Deportivo",
+        "shortname": "RCD",
+        "selector_name": "Deportivo",
+        "address": "Estadio ABANCA-Riazor,c/ Manuel Murguía s/n,15011 A Coruña",
+        "foundation": "1906-01-01T00:00:00+00:00",
+        "web": "http://www.rcdeportivo.es/",
+        "twitter": "@RCDeportivo",
+        "facebook": "https://www.facebook.com/RCDeportivo",
+        "instagram": "https://instagram.com/rcdeportivo/",
+        "mail": "deportivo@canaldeportivo.com",
+        "phone": "0034 981 259 500",
+        "fax": "0034 981 265 919",
+        "president": "Fernando Vidal Raposo"
+      },
+      "venue": {
+        "id": 26,
+        "name": "Estadio ABANCA-RIAZOR",
+        "latitude": "43.36836",
+        "longitude": "-8.42414",
+        "capacity": 32660,
+        "address": "Estadio de Riazor. Manuel Murguia s/n.",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 382493,
+          "name": "Estadio ABANCA - Riazor",
+          "caption": "Estadio ABANCA - Riazor",
+          "url": "https://assets.laliga.com/assets/2019/08/12/xlarge/0ecb494ce20bc7e4fc85d4f797c0f931.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/08/12/xsmall/0ecb494ce20bc7e4fc85d4f797c0f931.png",
+            "small": "https://assets.laliga.com/assets/2019/08/12/small/0ecb494ce20bc7e4fc85d4f797c0f931.png",
+            "medium": "https://assets.laliga.com/assets/2019/08/12/medium/0ecb494ce20bc7e4fc85d4f797c0f931.png",
+            "large": "https://assets.laliga.com/assets/2019/08/12/large/0ecb494ce20bc7e4fc85d4f797c0f931.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/08/12/xlarge/0ecb494ce20bc7e4fc85d4f797c0f931.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "A Coruña",
+        "slug": "estadio-abanca-riazor",
+        "opta_id": "v1351",
+        "lde_id": 326
+      },
+      "shield": {
+        "id": 171,
+        "name": "Escudo RCD",
+        "caption": "Escudo RCD",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/deportivo.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/deportivo.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/deportivo.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/deportivo.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/deportivo.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/deportivo.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t180",
+      "lde_id": 76
+    },
+    {
+      "id": 8,
+      "slug": "rcd-espanyol",
+      "name": "RCD Espanyol de Barcelona",
+      "nickname": "RCD Espanyol de Barcelona",
+      "boundname": "RCD Espanyol de Barcelona",
+      "shortname": "ESP",
+      "color": "#54bed9",
+      "foundation": "1900-10-23T00:00:00+00:00",
+      "web": "http://www.rcdespanyol.com",
+      "sprite_status": "created",
+      "club": {
+        "id": 8,
+        "slug": "rcd-espanyol",
+        "name": "RCD Espanyol de Barcelona",
+        "nickname": "RCD Espanyol de Barcelona",
+        "boundname": "RCD Espanyol de Barcelona",
+        "shortname": "ESP",
+        "selector_name": "Espanyol",
+        "address": "RCDE Stadium,Avda. Baix Llobregat, 100,08940 Cornellà de Llobregat (Barcelona)",
+        "foundation": "1900-10-23T00:00:00+00:00",
+        "web": "http://www.rcdespanyol.com",
+        "twitter": "@RCDEspanyol",
+        "facebook": "https://www.facebook.com/RCDEspanyol",
+        "mail": "info@rcdespanyol.com",
+        "phone": "0034 932 927 700",
+        "fax": "0034 934 254 552",
+        "president": "Chen Yansheng"
+      },
+      "venue": {
+        "id": 8,
+        "name": "RCDE Stadium",
+        "latitude": "41.3546",
+        "longitude": "2.0634",
+        "capacity": 40500,
+        "address": "Avenida Baix Llobregat, 100 Cornellá Llobregat (Barcelona)",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 381096,
+          "name": "rcde stadium",
+          "url": "https://assets.laliga.com/assets/2019/06/17/xlarge/306cc02af120e092849ddf38954bcb3e.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/06/17/xsmall/306cc02af120e092849ddf38954bcb3e.png",
+            "small": "https://assets.laliga.com/assets/2019/06/17/small/306cc02af120e092849ddf38954bcb3e.png",
+            "medium": "https://assets.laliga.com/assets/2019/06/17/medium/306cc02af120e092849ddf38954bcb3e.png",
+            "large": "https://assets.laliga.com/assets/2019/06/17/large/306cc02af120e092849ddf38954bcb3e.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/06/17/xlarge/306cc02af120e092849ddf38954bcb3e.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Cornellà de Llobregat",
+        "slug": "rcde-stadium",
+        "opta_id": "v6360",
+        "lde_id": 879
+      },
+      "shield": {
+        "id": 135,
+        "name": "Escudo ESP",
+        "caption": "Escudo ESP",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/espanyol.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/espanyol.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/espanyol.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/espanyol.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/espanyol.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/espanyol.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t177",
+      "lde_id": 72
+    },
+    {
+      "id": 5,
+      "slug": "real-betis",
+      "name": "Real Betis Balompié SAD",
+      "nickname": "Real Betis",
+      "boundname": "Real Betis",
+      "shortname": "BET",
+      "color": "#0bb363",
+      "color_secondary": "#ffffff",
+      "foundation": "1907-09-12T00:00:00+00:00",
+      "web": "http://www.realbetisbalompie.es/",
+      "sprite_status": "created",
+      "club": {
+        "id": 5,
+        "slug": "real-betis",
+        "name": "Real Betis Balompié SAD",
+        "nickname": "Real Betis",
+        "boundname": "Real Betis",
+        "shortname": "RBB",
+        "selector_name": "R. Betis",
+        "address": "Estadio Benito Villamarín,Avda. de Heliópolis s/n,41012 Sevilla",
+        "foundation": "1907-09-12T00:00:00+00:00",
+        "web": "http://www.realbetisbalompie.es/",
+        "twitter": "@RealBetis",
+        "facebook": "https://www.facebook.com/realbetisbalompie",
+        "instagram": "https://instagram.com/realbetisbalompie/",
+        "mail": "info@realbetisbalompie.es",
+        "phone": "0034 902 191 907",
+        "president": "Ángel Haro García"
+      },
+      "venue": {
+        "id": 5,
+        "name": "Estadio Benito Villamarín",
+        "latitude": "37.37665",
+        "longitude": "-5.98523",
+        "capacity": 52500,
+        "address": "Estadio Benito Villamarín. Avda. de Heliópolis s/n. 41012 Sevilla",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 381084,
+          "name": "benito villamarin",
+          "url": "https://assets.laliga.com/assets/2019/06/17/xlarge/f211dabccff68741a75d175307d78f59.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/06/17/xsmall/f211dabccff68741a75d175307d78f59.png",
+            "small": "https://assets.laliga.com/assets/2019/06/17/small/f211dabccff68741a75d175307d78f59.png",
+            "medium": "https://assets.laliga.com/assets/2019/06/17/medium/f211dabccff68741a75d175307d78f59.png",
+            "large": "https://assets.laliga.com/assets/2019/06/17/large/f211dabccff68741a75d175307d78f59.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/06/17/xlarge/f211dabccff68741a75d175307d78f59.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Sevilla",
+        "slug": "estadio-benito-villamarin",
+        "opta_id": "v2476",
+        "lde_id": 327
+      },
+      "shield": {
+        "id": 627565,
+        "name": "LOGO BETIS OK",
+        "url": "https://assets.laliga.com/assets/2022/09/15/xlarge/e4a09419d3bd115b8f3dab73d480e146.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2022/09/15/xsmall/e4a09419d3bd115b8f3dab73d480e146.png",
+          "small": "https://assets.laliga.com/assets/2022/09/15/small/e4a09419d3bd115b8f3dab73d480e146.png",
+          "medium": "https://assets.laliga.com/assets/2022/09/15/medium/e4a09419d3bd115b8f3dab73d480e146.png",
+          "large": "https://assets.laliga.com/assets/2022/09/15/large/e4a09419d3bd115b8f3dab73d480e146.png",
+          "xlarge": "https://assets.laliga.com/assets/2022/09/15/xlarge/e4a09419d3bd115b8f3dab73d480e146.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t185",
+      "lde_id": 81
+    },
+    {
+      "id": 15,
+      "slug": "real-madrid",
+      "name": "Real Madrid Club de Fútbol",
+      "nickname": "Real Madrid",
+      "boundname": "Real Madrid",
+      "shortname": "RMA",
+      "color": "#f5f5f6",
+      "color_secondary": "#a269b7",
+      "foundation": "1902-03-06T00:00:00+00:00",
+      "web": "http://www.realmadrid.com",
+      "sprite_status": "created",
+      "club": {
+        "id": 15,
+        "slug": "real-madrid",
+        "name": "Real Madrid Club de Fútbol",
+        "nickname": "Real Madrid",
+        "boundname": "Real Madrid",
+        "shortname": "RMA",
+        "selector_name": "R. Madrid",
+        "address": "Estadio Santiago Bernabéu,C/ Concha Espina, 1,28036 Madrid",
+        "foundation": "1902-03-06T00:00:00+00:00",
+        "web": "http://www.realmadrid.com",
+        "twitter": "@RealMadrid",
+        "facebook": "https://www.facebook.com/RealMadrid",
+        "instagram": "https://instagram.com/realmadrid",
+        "mail": "mensajes@realmadrid.com",
+        "phone": "0034 913 984 300",
+        "fax": "0034 913 984 386",
+        "president": "Florentino Pérez Rodríguez"
+      },
+      "venue": {
+        "id": 15,
+        "name": "Estadio Santiago Bernabéu",
+        "latitude": "40.45009",
+        "longitude": "-3.68877",
+        "capacity": 80000,
+        "address": "Estadio Santiago Bernabéu. Calle Concha Espina s/n. 28036 Madrid",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 380297,
+          "name": "Estadio Santiago Bernabeu",
+          "url": "https://assets.laliga.com/assets/2019/06/08/xlarge/e6695a8184f41deea3ad87dd9c12ab1f.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/06/08/xsmall/e6695a8184f41deea3ad87dd9c12ab1f.png",
+            "small": "https://assets.laliga.com/assets/2019/06/08/small/e6695a8184f41deea3ad87dd9c12ab1f.png",
+            "medium": "https://assets.laliga.com/assets/2019/06/08/medium/e6695a8184f41deea3ad87dd9c12ab1f.png",
+            "large": "https://assets.laliga.com/assets/2019/06/08/large/e6695a8184f41deea3ad87dd9c12ab1f.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/06/08/xlarge/e6695a8184f41deea3ad87dd9c12ab1f.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Madrid",
+        "slug": "estadio-santiago-bernabeu",
+        "opta_id": "v1360",
+        "lde_id": 515
+      },
+      "shield": {
+        "id": 149,
+        "name": "Escudo RMA",
+        "caption": "Escudo RMA",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/real-madrid.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/real-madrid.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/real-madrid.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/real-madrid.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/real-madrid.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/real-madrid.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t186",
+      "lde_id": 82
+    },
+    {
+      "id": 16,
+      "slug": "real-sociedad",
+      "name": "Real Sociedad de Fútbol SAD",
+      "nickname": "Real Sociedad",
+      "boundname": "Real Sociedad",
+      "shortname": "RSO",
+      "color": "#1476c4",
+      "color_secondary": "#ffffff",
+      "shirt_style": "striped",
+      "foundation": "1909-09-07T00:00:00+00:00",
+      "web": "http://www.realsociedad.com",
+      "sprite_status": "created",
+      "club": {
+        "id": 16,
+        "slug": "real-sociedad",
+        "name": "Real Sociedad de Fútbol SAD",
+        "nickname": "Real Sociedad",
+        "boundname": "Real Sociedad",
+        "shortname": "RSO",
+        "selector_name": "R. Sociedad",
+        "address": "Reale Arena, Anoeta Pasealekua, 1,20014 San Sebastián",
+        "foundation": "1909-09-07T00:00:00+00:00",
+        "web": "http://www.realsociedad.com",
+        "twitter": "@RealSociedad",
+        "facebook": "https://www.facebook.com/RealSociedadFutbol",
+        "instagram": "https://instagram.com/realsociedad/",
+        "mail": "realsoc@realsociedad.com",
+        "phone": "0034 943 451 109 // 0034 943 462 833",
+        "fax": "0034 943 458 941",
+        "president": "Jokin Aperribay Bedialauneta"
+      },
+      "venue": {
+        "id": 16,
+        "name": "Reale Arena",
+        "latitude": "43.30006",
+        "longitude": "-1.9731",
+        "capacity": 32076,
+        "address": "Reale Arena. Paseo de Anoeta, 1. 20014 Donostia-San Sebastián (Gipuzkoa)",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 395447,
+          "name": "Reale Arena sept19",
+          "url": "https://assets.laliga.com/assets/2019/10/03/xlarge/b20727f80d7b4c9d5ad18acec9b663c5.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/10/03/xsmall/b20727f80d7b4c9d5ad18acec9b663c5.png",
+            "small": "https://assets.laliga.com/assets/2019/10/03/small/b20727f80d7b4c9d5ad18acec9b663c5.png",
+            "medium": "https://assets.laliga.com/assets/2019/10/03/medium/b20727f80d7b4c9d5ad18acec9b663c5.png",
+            "large": "https://assets.laliga.com/assets/2019/10/03/large/b20727f80d7b4c9d5ad18acec9b663c5.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/10/03/xlarge/b20727f80d7b4c9d5ad18acec9b663c5.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Donostia",
+        "slug": "reale-arena",
+        "opta_id": "v1362",
+        "lde_id": 731
+      },
+      "shield": {
+        "id": 151,
+        "name": "Escudo RSO",
+        "caption": "Escudo RSO",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/real-sociedad.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/real-sociedad.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/real-sociedad.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/real-sociedad.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/real-sociedad.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/real-sociedad.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t188",
+      "lde_id": 84
+    },
+    {
+      "id": 39,
+      "slug": "real-sporting",
+      "name": "Real Sporting de Gijón SAD",
+      "nickname": "Real Sporting",
+      "boundname": "Real Sporting",
+      "shortname": "SPO",
+      "color": "#e2383f",
+      "foundation": "1905-07-01T00:00:00+00:00",
+      "web": "http://www.realsporting.com/",
+      "sprite_status": "created",
+      "club": {
+        "id": 39,
+        "slug": "real-sporting",
+        "name": "Real Sporting de Gijón SAD",
+        "nickname": "Real Sporting",
+        "boundname": "Real Sporting",
+        "shortname": "RSG",
+        "selector_name": "Sporting",
+        "address": "Estadio El Molinón-Enrique Castro Quini,\nPaseo Isabel La Católica s/n,\n33203 Gijón (Asturias)",
+        "foundation": "1905-07-01T00:00:00+00:00",
+        "web": "http://www.realsporting.com/",
+        "twitter": "@realsporting",
+        "facebook": "https://www.facebook.com/realsportingdegijon/",
+        "mail": "efmareo@realsporting.com",
+        "phone": "0034 985 167 677",
+        "fax": "0034 985 167 632",
+        "president": "D. Alejandro Irarragorri"
+      },
+      "venue": {
+        "id": 39,
+        "name": "El Molinón-Enrique Castro \"Quini\"",
+        "latitude": "43.52912",
+        "longitude": "-5.63479",
+        "capacity": 29000,
+        "address": "Estadio del Molinón s/n. C/ Luis Adaro s/n. 33203 Gijón",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 382495,
+          "name": "El Molinón-Enrique Castro \"Quini\"",
+          "caption": "El Molinón-Enrique Castro \"Quini\"",
+          "url": "https://assets.laliga.com/assets/2019/08/12/xlarge/b2479755c9e3ad62da6f5b909dd7b471.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/08/12/xsmall/b2479755c9e3ad62da6f5b909dd7b471.png",
+            "small": "https://assets.laliga.com/assets/2019/08/12/small/b2479755c9e3ad62da6f5b909dd7b471.png",
+            "medium": "https://assets.laliga.com/assets/2019/08/12/medium/b2479755c9e3ad62da6f5b909dd7b471.png",
+            "large": "https://assets.laliga.com/assets/2019/08/12/large/b2479755c9e3ad62da6f5b909dd7b471.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/08/12/xlarge/b2479755c9e3ad62da6f5b909dd7b471.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Gijón",
+        "slug": "el-molinon-enrique-castro-quini",
+        "opta_id": "v2911",
+        "lde_id": 793
+      },
+      "shield": {
+        "id": 197,
+        "name": "Escudo RSG",
+        "caption": "Escudo RSG",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/sporting.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/sporting.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/sporting.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/sporting.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/sporting.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/sporting.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t616",
+      "lde_id": 226
+    },
+    {
+      "id": 27,
+      "slug": "sd-eibar",
+      "name": "Sociedad Deportiva Eibar SAD",
+      "nickname": "SD Eibar",
+      "boundname": "SD Eibar",
+      "shortname": "EIB",
+      "color": "#0867a9",
+      "foundation": "1940-01-01T00:00:00+00:00",
+      "web": "http://www.sdeibar.com/",
+      "sprite_status": "created",
+      "club": {
+        "id": 27,
+        "slug": "sd-eibar",
+        "name": "Sociedad Deportiva Eibar SAD",
+        "nickname": "SD Eibar",
+        "boundname": "SD Eibar",
+        "shortname": "EIB",
+        "selector_name": "Eibar",
+        "address": "Municipal de Ipurua,c/ Ipurua, 220600 Eibar (Guipúzcoa)",
+        "foundation": "1940-01-01T00:00:00+00:00",
+        "web": "http://www.sdeibar.com/",
+        "twitter": "@sdeibar",
+        "facebook": "https://www.facebook.com/sdeibar",
+        "instagram": "https://instagram.com/sdeibar/",
+        "mail": "sdeibar@sdeibar.com",
+        "phone": "0034  943 201 831",
+        "fax": "0034  943 202 606",
+        "president": "Amaia Gorostiza"
+      },
+      "venue": {
+        "id": 27,
+        "name": "Municipal de Ipurua",
+        "latitude": "43.18195",
+        "longitude": "-2.47464",
+        "capacity": 7083,
+        "address": "Indalecio Ojanguren s/n. 20600 Eibar (Gipuzkoa)",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 466857,
+          "name": "ipurua",
+          "url": "https://assets.laliga.com/assets/2020/08/11/xlarge/a2e60532e61cec4e87f77fee8cb6e390.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2020/08/11/xsmall/a2e60532e61cec4e87f77fee8cb6e390.png",
+            "small": "https://assets.laliga.com/assets/2020/08/11/small/a2e60532e61cec4e87f77fee8cb6e390.png",
+            "medium": "https://assets.laliga.com/assets/2020/08/11/medium/a2e60532e61cec4e87f77fee8cb6e390.png",
+            "large": "https://assets.laliga.com/assets/2020/08/11/large/a2e60532e61cec4e87f77fee8cb6e390.png",
+            "xlarge": "https://assets.laliga.com/assets/2020/08/11/xlarge/a2e60532e61cec4e87f77fee8cb6e390.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Eibar",
+        "slug": "municipal-de-ipurua",
+        "opta_id": "v3770",
+        "lde_id": 827
+      },
+      "shield": {
+        "id": 173,
+        "name": "Escudo EIB",
+        "caption": "Escudo EIB",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/eibar.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/eibar.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/eibar.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/eibar.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/eibar.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/eibar.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t953",
+      "lde_id": 261
+    },
+    {
+      "id": 17,
+      "slug": "sevilla-fc",
+      "name": "Sevilla Fútbol Club SAD",
+      "nickname": "Sevilla FC",
+      "boundname": "Sevilla FC",
+      "shortname": "SEV",
+      "color": "#e2383f",
+      "color_secondary": "#ffffff",
+      "foundation": "1905-10-14T00:00:00+00:00",
+      "web": "http://www.sevillafc.es/",
+      "sprite_status": "created",
+      "club": {
+        "id": 17,
+        "slug": "sevilla-fc",
+        "name": "Sevilla Fútbol Club SAD",
+        "nickname": "Sevilla FC",
+        "boundname": "Sevilla FC",
+        "shortname": "SFC",
+        "selector_name": "Sevilla",
+        "address": "Estadio Ramón Sánchez-Pizjuán,C/ Sevilla Fútbol Club, s/n,41005 Sevilla",
+        "foundation": "1905-10-14T00:00:00+00:00",
+        "web": "http://www.sevillafc.es/",
+        "twitter": "@SevillaFC",
+        "facebook": "https://www.facebook.com/SevillaFutbolClubSAD",
+        "mail": "sevillafc@sevillafc.es",
+        "phone": "0034 954535353",
+        "fax": "0034 954 536 061",
+        "president": "José Castro Carmona"
+      },
+      "venue": {
+        "id": 17,
+        "name": "Ramón Sánchez-Pizjuán",
+        "latitude": "37.38416",
+        "longitude": "-5.97167",
+        "capacity": 43883,
+        "address": "Estadio Ramón Sánchez Pizjuán. C/ Sevilla Fútbol Club s/n. Sevilla",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 495395,
+          "name": "ramon-sanchez-pizjuan.png",
+          "url": "https://assets.laliga.com/assets/2021/01/20/xlarge/5a52ab192cd4e4b1cc3e3a752d99c4e8.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2021/01/20/xsmall/5a52ab192cd4e4b1cc3e3a752d99c4e8.png",
+            "small": "https://assets.laliga.com/assets/2021/01/20/small/5a52ab192cd4e4b1cc3e3a752d99c4e8.png",
+            "medium": "https://assets.laliga.com/assets/2021/01/20/medium/5a52ab192cd4e4b1cc3e3a752d99c4e8.png",
+            "large": "https://assets.laliga.com/assets/2021/01/20/large/5a52ab192cd4e4b1cc3e3a752d99c4e8.png",
+            "xlarge": "https://assets.laliga.com/assets/2021/01/20/xlarge/5a52ab192cd4e4b1cc3e3a752d99c4e8.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Sevilla",
+        "slug": "ramon-sanchez-pizjuan",
+        "opta_id": "v2474",
+        "lde_id": 763
+      },
+      "shield": {
+        "id": 153,
+        "name": "Escudo SFC",
+        "caption": "Escudo SFC",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/sevilla.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/sevilla.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/sevilla.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/sevilla.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/sevilla.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/sevilla.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t179",
+      "lde_id": 75
+    },
+    {
+      "id": 31,
+      "slug": "ud-las-palmas",
+      "name": "Unión Deportiva Las Palmas SAD",
+      "nickname": "UD Las Palmas",
+      "boundname": "UD Las Palmas",
+      "shortname": "LPA",
+      "color": "#f9bd33",
+      "foundation": "1949-08-22T00:00:00+00:00",
+      "web": "http://www.udlaspalmas.es/",
+      "sprite_status": "created",
+      "club": {
+        "id": 31,
+        "slug": "ud-las-palmas",
+        "name": "Unión Deportiva Las Palmas SAD",
+        "nickname": "UD Las Palmas",
+        "boundname": "UD Las Palmas",
+        "shortname": "LPA",
+        "selector_name": "Las Palmas",
+        "address": "Estadio de Gran Canaria,c/ Germán Dévora Ceballos s/n35019 Las Palmas de Gran Canaria",
+        "foundation": "1949-08-22T00:00:00+00:00",
+        "web": "http://www.udlaspalmas.es/",
+        "twitter": "@UDLP_Oficial",
+        "facebook": "https://www.facebook.com/udlaspalmasoficial",
+        "mail": "comunicacion@udlaspalmas.es",
+        "phone": "0034 928 241 342 / 43",
+        "fax": "0034 928 246 714",
+        "president": "Miguel Ángel Ramírez Alonso"
+      },
+      "venue": {
+        "id": 31,
+        "name": "Estadio Gran Canaria",
+        "latitude": "28.10263",
+        "longitude": "-15.45436",
+        "capacity": 31250,
+        "address": "Calle Fondos de Segura, s/n, 35019 Las Palmas de Gran Canaria, Las Palmas",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 382497,
+          "name": "Estadio de Gran Canaria",
+          "caption": "Estadio de Gran Canaria",
+          "url": "https://assets.laliga.com/assets/2019/08/12/xlarge/e0129e197124bb917f768da2112d594a.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/08/12/xsmall/e0129e197124bb917f768da2112d594a.png",
+            "small": "https://assets.laliga.com/assets/2019/08/12/small/e0129e197124bb917f768da2112d594a.png",
+            "medium": "https://assets.laliga.com/assets/2019/08/12/medium/e0129e197124bb917f768da2112d594a.png",
+            "large": "https://assets.laliga.com/assets/2019/08/12/large/e0129e197124bb917f768da2112d594a.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/08/12/xlarge/e0129e197124bb917f768da2112d594a.png"
+          }
+        },
+        "timezone": "Atlantic/Canary",
+        "city": "Las Palmas de Gran Canaria",
+        "slug": "estadio-gran-canaria",
+        "opta_id": "v3617",
+        "lde_id": 821
+      },
+      "shield": {
+        "id": 181,
+        "name": "Escudo LPA",
+        "caption": "Escudo LPA",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/las-palmas.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/las-palmas.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/las-palmas.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/las-palmas.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/las-palmas.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/las-palmas.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t407",
+      "lde_id": 181
+    },
+    {
+      "id": 18,
+      "slug": "valencia-cf",
+      "name": "Valencia Club de Fútbol SAD",
+      "nickname": "Valencia CF",
+      "boundname": "Valencia CF",
+      "shortname": "VAL",
+      "color": "#ea7851",
+      "color_secondary": "#ffffff",
+      "foundation": "1919-03-18T00:00:00+00:00",
+      "web": "http://www.valenciacf.com",
+      "sprite_status": "created",
+      "club": {
+        "id": 18,
+        "slug": "valencia-cf",
+        "name": "Valencia Club de Fútbol SAD",
+        "nickname": "Valencia CF",
+        "boundname": "Valencia CF",
+        "shortname": "VCF",
+        "selector_name": "Valencia",
+        "address": "Estadio de Mestalla,Plaza Valencia CF, 246010 Valencia",
+        "foundation": "1919-03-18T00:00:00+00:00",
+        "web": "http://www.valenciacf.com",
+        "twitter": "@valenciacf",
+        "facebook": "https://www.facebook.com/ValenciaCF",
+        "instagram": "https://instagram.com/valenciacf",
+        "mail": "informacion@valenciacf.es",
+        "phone": "0034 96 337 26 26",
+        "fax": "0034 963 372 335",
+        "president": "Layhoon Chan"
+      },
+      "venue": {
+        "id": 18,
+        "name": "Camp de Mestalla",
+        "latitude": "39.47488",
+        "longitude": "-0.35919",
+        "capacity": 49677,
+        "address": "\"Camp de Mestalla\". Avenida de Suecia s/n. 46010 Valencia",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 381092,
+          "name": "mestalla",
+          "url": "https://assets.laliga.com/assets/2019/06/17/xlarge/984682326cdbb55f5034778b7690a795.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2019/06/17/xsmall/984682326cdbb55f5034778b7690a795.png",
+            "small": "https://assets.laliga.com/assets/2019/06/17/small/984682326cdbb55f5034778b7690a795.png",
+            "medium": "https://assets.laliga.com/assets/2019/06/17/medium/984682326cdbb55f5034778b7690a795.png",
+            "large": "https://assets.laliga.com/assets/2019/06/17/large/984682326cdbb55f5034778b7690a795.png",
+            "xlarge": "https://assets.laliga.com/assets/2019/06/17/xlarge/984682326cdbb55f5034778b7690a795.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "València",
+        "slug": "camp-de-mestalla",
+        "opta_id": "v1365",
+        "lde_id": 516
+      },
+      "shield": {
+        "id": 155,
+        "name": "Escudo VCF",
+        "caption": "Escudo VCF",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/valencia.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/valencia.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/valencia.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/valencia.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/valencia.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/valencia.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t191",
+      "lde_id": 88
+    },
+    {
+      "id": 20,
+      "slug": "villarreal-cf",
+      "name": "Villarreal Club de Fútbol SAD",
+      "nickname": "Villarreal CF",
+      "boundname": "Villarreal CF",
+      "shortname": "VIL",
+      "color": "#f9bd33",
+      "color_secondary": "#0077c8",
+      "foundation": "1923-03-10T00:00:00+00:00",
+      "web": "http://www.villarrealcf.es/",
+      "sprite_status": "created",
+      "club": {
+        "id": 20,
+        "slug": "villarreal-cf",
+        "name": "Villarreal Club de Fútbol SAD",
+        "nickname": "Villarreal CF",
+        "boundname": "Villarreal CF",
+        "shortname": "VIL",
+        "selector_name": "Villarreal",
+        "address": "Estadio de la Cerámica,C/ Blasco Ibáñez, 2,12540 Villarreal (Castellón)",
+        "foundation": "1923-03-10T00:00:00+00:00",
+        "web": "http://www.villarrealcf.es/",
+        "twitter": "@VillarrealCF",
+        "facebook": "https://www.facebook.com/villarrealcf/",
+        "instagram": "https://instagram.com/villarrealcf/",
+        "mail": "villarrealcf@villarrealcf.es",
+        "phone": "0034 964 500 250",
+        "fax": "0034 964 500 167",
+        "president": "Fernando Roig Alfonso"
+      },
+      "venue": {
+        "id": 20,
+        "name": "Estadio de la Cerámica",
+        "latitude": "39.94403",
+        "longitude": "-0.10472",
+        "capacity": 24500,
+        "address": "Estadio de la Cerámica. Calle Blasco Ibáñez, 2. 12540 Vila-Real (Castellón)",
+        "country": {
+          "id": "ES"
+        },
+        "image": {
+          "id": 619671,
+          "name": "Villarreal Estadio Ceramica.png",
+          "url": "https://assets.laliga.com/assets/2022/08/08/xlarge/f8b7af1a758c926235c7ac033789825a.png",
+          "resizes": {
+            "xsmall": "https://assets.laliga.com/assets/2022/08/08/xsmall/f8b7af1a758c926235c7ac033789825a.png",
+            "small": "https://assets.laliga.com/assets/2022/08/08/small/f8b7af1a758c926235c7ac033789825a.png",
+            "medium": "https://assets.laliga.com/assets/2022/08/08/medium/f8b7af1a758c926235c7ac033789825a.png",
+            "large": "https://assets.laliga.com/assets/2022/08/08/large/f8b7af1a758c926235c7ac033789825a.png",
+            "xlarge": "https://assets.laliga.com/assets/2022/08/08/xlarge/f8b7af1a758c926235c7ac033789825a.png"
+          }
+        },
+        "timezone": "Europe/Madrid",
+        "city": "Vila-real",
+        "slug": "estadio-de-la-ceramica",
+        "opta_id": "v1366",
+        "lde_id": 734
+      },
+      "shield": {
+        "id": 159,
+        "name": "Escudo VIL",
+        "caption": "Escudo VIL",
+        "url": "https://assets.laliga.com/assets/2019/06/07/xlarge/villarreal.png",
+        "resizes": {
+          "xsmall": "https://assets.laliga.com/assets/2019/06/07/xsmall/villarreal.png",
+          "small": "https://assets.laliga.com/assets/2019/06/07/small/villarreal.png",
+          "medium": "https://assets.laliga.com/assets/2019/06/07/medium/villarreal.png",
+          "large": "https://assets.laliga.com/assets/2019/06/07/large/villarreal.png",
+          "xlarge": "https://assets.laliga.com/assets/2019/06/07/xlarge/villarreal.png"
+        }
+      },
+      "competitions": [],
+      "opta_id": "t449",
+      "lde_id": 189
+    }
+  ]
+}
